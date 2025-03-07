@@ -12,7 +12,7 @@ $\quad$ Boots - [[Shadow Harvester Boots]]
 Accessories:
 $\quad$ Cloak - [[Supreme Devotion]]
 $\quad$ Necklace - [[Collar of Decimation]]
-$\quad$ Bracelet - [[Ancient Saurodoma Braers]]
+$\quad$ Bracelet - [[Ancient Saurodoma Bracers]]
 $\quad$ Ring 1 - [[Etched Alabaster Band]]
 $\quad$ Ring 2 - [[Insightful Ring of Dimension]]
 $\quad$ Belt - [[Belt of Bloodlust]]
