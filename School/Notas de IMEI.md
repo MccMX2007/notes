@@ -10,6 +10,6 @@ $\quad$
 -  Por termos e condições é importante.
 # Email:
 
--  Tenho de fazer uma melhor assinatura onde tenho de por a logo (criar) da empresa.
--  Ver tipos de assinaturas de email.
+-  Tenho de fazer uma melhor assinatura onde tenho de por a logo (criar) da empresa. **
+-  Ver tipos de assinaturas de email. **
 -  Tento de fazer orçamento em anexo e não no corpo do email.
