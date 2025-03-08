@@ -1,5 +1,5 @@
 Weapon's
-$\quad$ Shield and Sword - [[Karnix's Netherblade]]
+$\quad$ Shield and Sword - [[Karnix's Netherblade]] (Adequirido)
 $\quad$ Wand - [[Lequirus's Conveted Tome]]
 
 Armor: 

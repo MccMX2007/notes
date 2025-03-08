@@ -5,4 +5,4 @@ NPC's:
 	None
 
 Co-Op Dungeon's: 
-	- Cave of Destruction (Minimum CP: 2,500)
+	- Cave of Destruction (Minimum CP: 1,600)

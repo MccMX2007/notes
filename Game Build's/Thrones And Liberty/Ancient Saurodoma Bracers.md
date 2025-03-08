@@ -5,4 +5,4 @@ NPC's:
 	None
 
 Co-Op Dungeon's: 
-	- Tyrant's Isle(Minimum CP:1,600)
+	- Tyrant's Isle (Minimum CP:1,600)
