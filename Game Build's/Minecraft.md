@@ -1,0 +1,1 @@
+Full enchanted armor 63 levels
