@@ -1,2 +1,0 @@
-- por as coisas msais ficticias 
-- tratamentos mudar - areas de intrevenção
