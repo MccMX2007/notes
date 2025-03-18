@@ -1,4 +1,6 @@
-# Página INICAL**
+# Página INICAL
+Supostamente concluida
+
 ![[Pasted image 20250316154925.png]]
 ![[Pasted image 20250316154834.png]]
 ![[Pasted image 20250316154940.png]]
